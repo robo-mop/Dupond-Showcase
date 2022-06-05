@@ -1,0 +1,7 @@
+Store EVERYTHING - let's say X0 messages from the created json in a JSON file
+
+Get all the other messages from the firebase document
+[If the latest message gotten is pretty recent, end program]
+
+Run youtube api for like 300 messages in a day - so 2 calls
+once you find the latest comment, send details to firebase document for writing IF IT DOESN'T EXIST
